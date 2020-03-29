@@ -1,0 +1,148 @@
+[
+    {
+        "id":1,
+        "name":"Lorenzo",
+        "img":"https://previews.123rf.com/images/vectorkif/vectorkif1803/vectorkif180300184/98147512-african-american-business-man-cartoon-character-businessman-in-office-clothes-holds-loudspeaker-vect.jpg",
+        "position": "CEO",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"ltupp@company.gee"
+
+    },
+    {
+        "id":2,
+        "name":"Yuri",
+        "img":"https://previews.123rf.com/images/vectorkif/vectorkif1804/vectorkif180400018/99280734-african-american-business-woman-cartoon-character-young-beautiful-businesswoman-in-smart-casual-clot.jpg",
+        "position": "CFO",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"ytupp@company.gee"
+
+    },
+    {
+        "id":3,
+        "name":"Jordan",
+        "img":"https://previews.123rf.com/images/vectorkif/vectorkif1909/vectorkif190900127/130528371-emotion-of-beautiful-young-african-american-woman-laughing-face-expression-of-cute-lady-vector-illus.jpg",
+        "position": "Product Manager",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"japrov@company.gee"
+    },
+    {
+        "id":4,
+        "name":"Justin",
+        "img":"https://cdn4.iconfinder.com/data/icons/flatfaces-everyday-people-circular/125/flatfaces8-512.png",
+        "position": "UI Developer",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"juprov@company.gee"
+    },
+    {
+        "id":5,
+        "name":"LorenzoJr.",
+        "img":"https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "position": "Backend Developer",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"ltuppjr@company.gee"
+    },
+    {
+        "id":6,
+        "name":"Brian",
+        "img":"https://previews.123rf.com/images/olleg/olleg1809/olleg180900224/108947611-african-american-man-icon-face-of-african-man-illustrations-.jpg",
+        "position": "Developer",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"brian@company.gee"
+    },
+    {
+        "id":7,
+        "name":"Chiquilla",
+        "img":"https://cdn2.iconfinder.com/data/icons/modern-avatars/600/myAvatar10-512.png",
+        "position": "HR",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"cgile@company.gee"
+    },
+    {
+        "id":8,
+        "name":"James IV",
+        "img":"https://previews.123rf.com/images/olleg/olleg1810/olleg181000605/111703721-african-man-showing-thumbs-up-flat-illustration.jpg",
+        "position": "Cyber Affairs",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"jtupp@company.gee"
+    },
+    {
+        "id":9,
+        "name":"Olivia",
+        "img":"https://previews.123rf.com/images/olleg/olleg1810/olleg181000026/109646251-portrait-of-african-woman-emotions-of-african-american-woman-face-facial-expression-african-girl-ill.jpg",
+        "position": "Customer Support",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"otupp@company.gee"
+    },
+    {
+        "id":10,
+        "name":"James Jr.",
+        "img":"https://cdn4.iconfinder.com/data/icons/hipster-characters-1/101/hipster_male4-512.png",
+        "position": "Marketing",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"jtuppjr@company.gee"
+    },
+    {
+        "id":11,
+        "name":"Helana",
+        "img":"https://previews.123rf.com/images/solgas/solgas1811/solgas181100006/112529981-teenager-cartoon-african-american-girl.jpg",
+        "position": "Web Developer",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"hbur@company.gee"
+    },
+    {
+        "id":12,
+        "name":"Margaret",
+        "img":"https://previews.123rf.com/images/juliare/juliare1811/juliare181100003/122392924-winking-afro-american-woman-avatar-playful-african-face-emoticon-cute-dark-skinned-girl-facial-expre.jpg",
+        "position": "Veterans Affairs",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"marwalk@company.gee"
+    },
+    {
+        "id":13,
+        "name":"Michael",
+        "img":"https://previews.123rf.com/images/rawpixel/rawpixel1804/rawpixel180400526/98750817-illustrated-man-holding-classical-vinyl-record.jpg",
+        "position": "Sales",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"mwalk@company.gee"
+    },
+    {
+        "id":14,
+        "name":"James 3rd",
+        "img":"https://cdn0.iconfinder.com/data/icons/avatars-19/64/_Submissive-512.png",
+        "position": "UX/UI",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"j3rd@company.gee"
+    },
+    {
+        "id":15,
+        "name":"Charles",
+        "img":"https://cdn2.iconfinder.com/data/icons/avatars-72/60/avatar19-512.png",
+        "position": "UX/UI",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"char@company.gee"
+    },
+    {
+        "id":16,
+        "name":"Garrett",
+        "img":"https://cdn4.iconfinder.com/data/icons/hipster-characters-1/101/hipster_male3-512.png",
+        "position": "UX/UI",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"bob@company.gee"
+    }
+]
