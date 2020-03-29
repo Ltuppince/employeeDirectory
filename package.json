@@ -10,8 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "reat": "0.0.1-security",
-    "router": "^1.3.5"
+    "reat": "0.0.1-security"
   },
   "scripts": {
     "start": "react-scripts start",
