@@ -10,7 +10,7 @@ import SearchForm from "./components/SearchForm/index"
 function App() {
   return (
    <Wrapper>
-     {/* <Navigation></Navigation> */}
+     
      <SearchForm></SearchForm>
      <Title>Employee Directory</Title>
      <EmployeeCard
