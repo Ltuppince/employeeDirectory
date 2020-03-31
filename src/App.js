@@ -3,13 +3,14 @@ import Wrapper from "./components/Wrapper";
 import Title from "./components/TItle/Title";
 import EmployeeCard from "./components/EmployeeCard/index";
 import employee from "./employee.json";
-import Navigation from "./components/Navbar/index"
+// import Navigation from "./components/Navbar/index"
 import SearchForm from "./components/SearchForm/index"
+
 
 function App() {
   return (
    <Wrapper>
-     <Navigation></Navigation>
+     {/* <Navigation></Navigation> */}
      <SearchForm></SearchForm>
      <Title>Employee Directory</Title>
      <EmployeeCard
