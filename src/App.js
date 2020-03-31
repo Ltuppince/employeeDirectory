@@ -10,7 +10,7 @@ import SearchForm from "./components/SearchForm/index"
 function App() {
   return (
    <Wrapper>
-     
+     {/* <Navigation></Navigation> */}
      <SearchForm></SearchForm>
      <Title>Employee Directory</Title>
      <EmployeeCard
@@ -140,6 +140,30 @@ function App() {
         office={employee[15].office}
         mobile={employee[15].mobile}
         email={employee[15].email}
+      />
+      <EmployeeCard
+        img={employee[16].img}
+        name={employee[16].name}
+        position={employee[16].position}
+        office={employee[16].office}
+        mobile={employee[16].mobile}
+        email={employee[16].email}
+      />
+      <EmployeeCard
+        img={employee[17].img}
+        name={employee[17].name}
+        position={employee[17].position}
+        office={employee[17].office}
+        mobile={employee[17].mobile}
+        email={employee[17].email}
+      />
+      <EmployeeCard
+        img={employee[18].img}
+        name={employee[18].name}
+        position={employee[18].position}
+        office={employee[18].office}
+        mobile={employee[18].mobile}
+        email={employee[18].email}
       />
       
       

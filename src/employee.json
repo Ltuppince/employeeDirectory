@@ -40,7 +40,7 @@
     {
         "id":5,
         "name":"LorenzoJr.",
-        "img":"https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "img":"https://image.shutterstock.com/image-vector/cool-african-man-afro-haircut-600w-1081237781.jpg",
         "position": "Backend Developer",
         "office":"123-456-7890",
         "mobile":"098-765-4321",
@@ -144,5 +144,34 @@
         "office":"123-456-7890",
         "mobile":"098-765-4321",
         "email":"bob@company.gee"
+    },
+    {
+        "id":17,
+        "name":"Jazz",
+        "img":"https://image.shutterstock.com/image-vector/cartoon-girl-icon-avatar-portrait-600w-169653617.jpg",
+        "position": "UX/UI",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"jazz@company.gee"
+    },
+    {
+        "id":18,
+        "name":"Mia",
+        "img":"https://image.shutterstock.com/image-vector/little-darkskinned-girl-on-roller-600w-270992735.jpg",
+        "position": "Manager",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"mia@company.gee"
+    },
+    {
+        "id":19,
+        "name":"Jailee",
+        "img":"https://image.shutterstock.com/image-vector/vector-african-american-school-girl-600w-33723769.jpg",
+        "position": "Manager",
+        "office":"123-456-7890",
+        "mobile":"098-765-4321",
+        "email":"jailee@company.gee"
     }
+    
+    
 ]
